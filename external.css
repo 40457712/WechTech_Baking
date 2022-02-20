@@ -4,3 +4,7 @@ h2{background-color:#DAD66C; font-size: medium;}
 h3{background-color:#DAD66A; font-size: small;}
 p{background-color:orange; color: black;}
 a{background-color:#B3F863}
+h1, h2, h3, h4 {
+    voice-family: male;
+    richness: 80;
+  }
