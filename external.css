@@ -1,5 +1,5 @@
 body{background-color:#F8F363}
-h1{background-color:#DAD66F; font-size: large;}
+h1{background-color:#DAD66F; font-size: large; width:fit-content;}
 h2{background-color:#DAD66C; font-size: medium;}
 h3{background-color:#DAD66A; font-size: small;}
 p{background-color:orange; color: black;}
@@ -9,12 +9,13 @@ h1, h2, h3, h4 {
     richness: 80;
   }
 .flex-container {
-  padding: 0;
-  margin: 0;
-  list-style: square;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  list-style: square;
+  margin: 0;
+  padding: 0;
+  width: fit-content;
   }
     
 .flex-item {
@@ -29,7 +30,7 @@ h1, h2, h3, h4 {
   margin-top: 10px;
   padding : 5px;
   text-align: center;
-  width: 300px;
+  width: auto;
   }
 
 nav {
@@ -39,15 +40,17 @@ nav {
   justify-content: space-evenly;
   margin: 0;
   list-style: none;
+  width: fit-content;
   }
 nav a {
   color: #1d631d;
   display: block;
-  font-size: 1em;
-  padding: 1em;
+  font-size: 1.2em;
+  font-weight: bold;
+  padding: 0.2em;
   text-decoration: none;
   }
 nav a:hover {
-  background: darken( tomato, 2%);
+  color: white;
   }
   
