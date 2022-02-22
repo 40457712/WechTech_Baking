@@ -36,14 +36,14 @@ nav {
   background: #a5dd65;
   display: flex;
   flex-flow: row wrap;
-  justify-content: flex-end;
+  justify-content: space-evenly;
   margin: 0;
   list-style: none;
   }
 nav a {
   color: #1d631d;
   display: block;
-  font-size: 20em;
+  font-size: 1em;
   padding: 1em;
   text-decoration: none;
   }
