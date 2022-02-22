@@ -24,7 +24,9 @@ h1, h2, h3, h4 {
   font-weight: bold;
   font-size: 2em;
   height: 50px;
-  line-height: 150px;
+  line-height: 40px;
+  list-style-type: "\1F44D";
+  list-style-position: inside;
   margin-top: 10px;
   padding : 5px;
   text-align: center;
