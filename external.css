@@ -3,7 +3,6 @@ h1{background-color:#DAD66F; font-size: large;}
 h2{background-color:#DAD66C; font-size: medium;}
 h3{background-color:#DAD66A; font-size: small;}
 p{background-color:orange; color: black;}
-a{background-color:#B3F863}
 
 h1, h2, h3, h4 {
     voice-family: male;
@@ -34,18 +33,19 @@ h1, h2, h3, h4 {
   }
 
 nav {
-  list-style: none;
-  margin: 0;
-  background: tomato;
+  background: #a5dd65;
   display: flex;
   flex-flow: row wrap;
   justify-content: flex-end;
+  margin: 0;
+  list-style: none;
   }
 nav a {
-  text-decoration: none;
+  color: #1d631d;
   display: block;
+  font-size: 20em;
   padding: 1em;
-  color: white;
+  text-decoration: none;
   }
 nav a:hover {
   background: darken( tomato, 2%);
