@@ -12,9 +12,8 @@ h1, h2, h3, h4 {
 .flex-container {
   padding: 0;
   margin: 0;
-  list-style: none;
+  list-style: square;
   display: flex;
-  flex-flow: column wrap;
   justify-content: space-around;
   }
     
