@@ -14,7 +14,7 @@ h1, h2, h3, h4 {
   margin: 0;
   list-style: none;
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: column wrap;
   justify-content: space-around;
   }
     
