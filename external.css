@@ -6,7 +6,7 @@ p{font-size: 1.4em;}
 .steps {
   background-image: url("images/LinedPaper.jfif");
   background-size: auto;
-  font-size: 1.5em;
+  font-size: 10px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   height: 100%;
   margin:20px;
@@ -14,7 +14,7 @@ p{font-size: 1.4em;}
   width: fit-content;
 }
 
-.item1 { grid-area: header; }
+.item1 { grid-area: header; text-align: center;}
 .item2 { grid-area: nav; text-align: center; }
 .item3 { grid-area: section; }
 .item4 { grid-area: aside; }
@@ -48,7 +48,7 @@ p{font-size: 1.4em;}
   background: tomato;
   color: white;
   font-weight: bold;
-  font-size: 2em;
+  font-size: 10px;
   height: 50px;
   line-height: 40px;
   list-style-type: "\1F44D";
@@ -63,12 +63,12 @@ p{font-size: 1.4em;}
   background: tomato;
   color: white;
   font-weight: bold;
-  font-size: 2em;
+  font-size: 20px;
   height: 50px;
   line-height: 40px;
   list-style-type: circle;
   list-style-position: inside;
-  margin-top: 10px;
+  margin: 10px;
   padding : 5px;
   text-align: center;
   width: auto;
@@ -87,9 +87,9 @@ nav {
 nav a {
   color: #1d631d;
   display: block;
-  font-size: 1.5em;
+  font-size: 10px;
   font-weight: bold;
-  padding: 0.2em;
+  padding: 10px;
   text-decoration: none;
   }
 nav a:hover {
