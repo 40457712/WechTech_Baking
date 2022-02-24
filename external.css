@@ -76,13 +76,11 @@ p{font-size: 1.4em;}
 
 nav {
   background: #a5dd65;
-  display: flex;
-  flex-flow: row wrap;
   justify-content: space-evenly;
   margin: 0;
   list-style: none;
   text-align: center;
-  width: fit-content;
+  width: auto;
   }
 nav a {
   color: #1d631d;
