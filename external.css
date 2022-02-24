@@ -9,9 +9,11 @@ h1, h2 {
     width: fit-content;
   }
 
-#steps {
+.steps {
   background-image: url("images/LinedPaper.jfif");
   background: tomato;
+  height: 100%;
+  width: fit-content;
 }
 
 .item1 { grid-area: header; }
