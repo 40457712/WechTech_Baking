@@ -5,9 +5,10 @@ p{font-size: 1.4em;}
 
 .steps {
   background-image: url("images/LinedPaper.jfif");
-  font-size: 2em;
+  font-size: 1.5em;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   height: 100%;
+  padding: 20px;
   width: fit-content;
 }
 
