@@ -5,7 +5,7 @@ p{font-size: 1.4em;}
 
 .steps {
   background-image: url("images/LinedPaper.jfif");
-  background-size: auto;
+  background-size: 100%;
   font-size: 10px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   height: 100%;
@@ -84,12 +84,11 @@ nav {
   margin: 0;
   list-style: none;
   text-align: center;
-  width: auto;
   }
 nav a {
   color: #1d631d;
   display: block;
-  font-size: 10px;
+  font-size: 30px;
   font-weight: bold;
   padding: 10px;
   text-decoration: none;
