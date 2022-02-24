@@ -35,17 +35,14 @@ p{font-size: 1.4em;}
   font-size: 30px;
 }
 
-.flex-container {
-  display: flex;
-  flex-direction: column;
+.list-container {
   justify-content: space-around;
-  list-style: square;
   margin: 0;
   padding: 0;
   width: fit-content;
   }
     
-.flex-item {
+.equipment-item {
   background: tomato;
   color: white;
   font-weight: bold;
@@ -60,7 +57,7 @@ p{font-size: 1.4em;}
   width: auto;
 }
 
-.flex-item-receipe {
+.recipe-item {
   background: tomato;
   color: white;
   font-weight: bold;
