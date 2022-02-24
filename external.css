@@ -8,10 +8,12 @@ h1, h2 {
     margin: 10px;
     width: fit-content;
   }
+
 #steps {
   background-image: url("images/LinedPaper.jfif");
-  background-size: auto;
+  background: tomato;
 }
+
 .item1 { grid-area: header; }
 .item2 { grid-area: nav; }
 .item3 { grid-area: section; }
