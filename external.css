@@ -6,12 +6,17 @@ p{font-size: 1.4em;}
 .steps {
   background-image: url("images/LinedPaper.jfif");
   background-size: 100%;
-  font-size: 10px;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   height: 100%;
   margin:20px;
   padding: 20px;
   width: fit-content;
+}
+
+.steps-item {
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 10px;
+  padding: 40px 10px 10px 10px;
 }
 
 .item1 { 
