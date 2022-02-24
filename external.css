@@ -3,7 +3,8 @@ body{background-color:#F8F363; text-align: center;}
 h1{background-color:#DAD66F; font-size: 1.7em; text-align: center;}
 h2{background-color:#DAD66C; font-size: 1.4em; text-align: center;}
 p{font-size: 1.2em;}
-
+section{float: left;}
+aside{float: right;}
 h1, h2 {
     padding: 5px;
     margin: 10px;
