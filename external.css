@@ -1,17 +1,12 @@
-head{text-align: center;}
-body{background-color:#F8F363; text-align: center;}
-h1{background-color:#DAD66F; font-size: 1.7em; text-align: center;}
-h2{background-color:#DAD66C; font-size: 1.4em; text-align: center;}
-p{font-size: 1.2em;}
-h1, h2 {
-    padding: 5px;
-    margin: 10px;
-    width: fit-content;
-  }
+body{background-color:#F8F363;}
+h1{background-color:#DAD66F; font-size: 1.7em;}
+h2{background-color:#DAD66C; font-size: 1.5em;}
+p{font-size: 1.4em;}
 
 .steps {
   background-image: url("images/LinedPaper.jfif");
   background: tomato;
+  font-size: 2em;
   height: 100%;
   width: fit-content;
 }
