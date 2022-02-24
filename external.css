@@ -31,7 +31,22 @@ h1, h2 {
   padding : 5px;
   text-align: center;
   width: auto;
-  }
+}
+
+.flex-item-receipe {
+  background: tomato;
+  color: white;
+  font-weight: bold;
+  font-size: 2em;
+  height: 50px;
+  line-height: 40px;
+  list-style-type: circle;
+  list-style-position: inside;
+  margin-top: 10px;
+  padding : 5px;
+  text-align: center;
+  width: auto;
+}
 
 nav {
   background: #a5dd65;
