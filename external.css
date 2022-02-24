@@ -7,16 +7,20 @@ p{font-size: 1.4em;}
   background-image: url("images/LinedPaper.jfif");
   background-size: 100%;
   height: 100%;
-  margin:20px;
-  padding: 20px;
+  margin-left: 5%;
+  padding-top: 80px;
+  padding-left: 8%;
   width: fit-content;
 }
 
 .steps-item {
-  font-size: 20px;
+  font-size: 25px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  margin: 10px;
-  padding: 40px 10px 10px 10px;
+  margin-left: 6%;
+  margin-top: 20px;
+  padding-left: 6%;
+  padding-right: 20px;
+  text-align: justify;
 }
 
 .item1 { 
@@ -80,7 +84,6 @@ p{font-size: 1.4em;}
   list-style-position: inside;
   padding : 5px;
   text-align: center;
-  width: fit-content;
 }
 
 nav {
@@ -99,5 +102,4 @@ nav a {
   }
 nav a:hover {
   color: white;
-  }
-  
+  } 
