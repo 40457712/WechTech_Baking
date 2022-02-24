@@ -12,7 +12,7 @@ p{font-size: 1.4em;}
 }
 
 .item1 { grid-area: header; }
-.item2 { grid-area: nav; }
+.item2 { grid-area: nav; text-align: center; }
 .item3 { grid-area: section; }
 .item4 { grid-area: aside; }
 .item5 { grid-area: footer; }
