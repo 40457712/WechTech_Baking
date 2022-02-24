@@ -14,8 +14,12 @@ p{font-size: 1.4em;}
   width: fit-content;
 }
 
-.item1 { grid-area: header; text-align: center;}
-.item2 { grid-area: nav; text-align: center; }
+.item1 { 
+  grid-area: header;
+}
+.item2 { 
+  grid-area: nav;
+}
 .item3 { grid-area: section; }
 .item4 { grid-area: aside; }
 .item5 { grid-area: footer; }
@@ -29,6 +33,7 @@ p{font-size: 1.4em;}
     'footer footer';
   gap: 10px;
   padding: 10px;
+  text-align: center; 
 }
 
 .grid-container > div {
