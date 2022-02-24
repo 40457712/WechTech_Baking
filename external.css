@@ -92,10 +92,9 @@ nav {
   }
 nav a {
   color: #1d631d;
-  display: block;
   font-size: 30px;
   font-weight: bold;
-  padding: 10px;
+  padding: 30px;
   text-decoration: none;
   }
 nav a:hover {
