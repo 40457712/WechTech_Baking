@@ -3,6 +3,13 @@ h1{background-color:#DAD66F; font-size: 2.5em;}
 h2{background-color:#DAD66C; font-size: 1.5em;}
 p{font-size: 1.4em;}
 
+#SandwichCake {
+  background-color: white;
+  margin: 20px;
+  padding: 20px;
+
+}
+
 .steps {
   background-image: url("images/LinedPaper.jfif");
   background-size: 100%;
