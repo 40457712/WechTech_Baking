@@ -9,6 +9,14 @@ p{font-size: 1.4em;}
   padding: 20px;
 
 }
+#versions {
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: 6%;
+  padding-left: 6%;
+  padding-right: 20px;
+  text-align: justify;
+}
 
 .steps {
   background-image: url("images/LinedPaper.jfif");
