@@ -123,14 +123,17 @@ nav a:hover {
   } 
 
 #badge {
- text-align: center;
- width: 200px;
- border: 2px solid blue; 
+  border: 2px solid blue; 
+  text-align: center;
+  width: 200px;
+ 
 }
 
 #info {
+  background-color: #fff;
+  height: 160px;
   margin: 20px;
   padding: 20px;
   width: 660px;
-  height: 160px;
+  
 }
