@@ -1,7 +1,20 @@
 body{background-color:#F8F363;}
-h1{background-color:#DAD66F; font-size: 2.5em; padding: 10px;}
-h2{background-color:#DAD66C; font-size: 1.5em;}
-p{font-size: 1.4em;}
+
+h1{
+  background-color:#DAD66F;
+  font-size: 2.5em;
+  padding: 10px;
+  text-shadow: 2px 2px 2px #bbbbbb;
+}
+
+h2{
+  background-color:#DAD66C; 
+  font-size: 1.5em;
+}
+
+p{
+  font-size: 1.4em;
+}
 
 #SandwichCake {
   background-color: white;
